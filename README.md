@@ -1,4 +1,5 @@
 # Image-Classification-of-Polar-Lows
+By: Riya Kanani, Shraddha Patre, Katie Fernon, and Ryan Birmingham
 ### Background
 Polar lows are fast-forming mesocyclones that are capable of reaching hurricane-like forces (Terpstra and Watanabe). The shape of these storms can either be circular with an eye in the center or in the shape of a comma. The ability to identify these storms and notify coastal communities who may be affected could help them better prepare to face the storm's effects.
 
